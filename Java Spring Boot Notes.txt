@@ -1,0 +1,17 @@
+Project Kurulum Yaparken 
+	spring boot dev tools
+	lombok
+	spring web
+
+Email Service --> 
+
+------------------------------
+spring feign client
+spring resttemplate
+
+--------
+PORT BİLGİLERİ -->
+	resources  --> application.properties
+							server.port=8081
+
+							
